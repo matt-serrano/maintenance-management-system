@@ -1,4 +1,4 @@
-package com.matt.maintenance;
+package main.java.com.matt.maintenance;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
